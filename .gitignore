@@ -1,2 +1,4 @@
 .sublime
 *.dSYM
+
+.DS_Store
